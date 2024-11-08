@@ -22,3 +22,12 @@ To get started with **CinemaHub**, you'll need Python installed on your machine.
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/CinemaHub-Movie-Booking-System.git
+
+## Acknowledgments
+
+This project was a collaborative effort between **Navdeep** and me. We worked together on every aspect of the project, from the initial design to the final implementation. Navdeep contributed significantly to the development, especially with the file handling parts.
+
+You can check out Navdeep’s GitHub profile here: [Navdeep's GitHub](https://github.com/Navdeep747).
+
+Thanks, Navdeep, for being an amazing collaborator!
+
